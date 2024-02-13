@@ -1,6 +1,11 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
 using namespace std;
+
+
+// lets use some object oriented programming as well, well this was an ugly way....
+
+
 //sfml ma button
 class Button {
 private:
