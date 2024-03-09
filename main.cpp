@@ -224,7 +224,7 @@ public:
     {
         shape.setPosition(Vector2f(x, y));
         shape.setSize(Vector2f(width, height));
-        shape.setFillColor(Color::Black);
+        shape.setFillColor(Color::White);
 
         text.setString(buttonText);
         text.setCharacterSize(24);
